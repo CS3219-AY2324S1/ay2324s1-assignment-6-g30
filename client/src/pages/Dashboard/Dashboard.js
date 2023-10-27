@@ -26,9 +26,6 @@ function Dashboard() {
           <Text lineHeight="tall" fontSize={"2xl"}>
             Ready to <Kbd shadow={"base"}>code</Kbd>?
           </Text>
-          <Stack spacing={"5"} direction={["column", "row"]}>
-          </Stack>
-
         </Box>
         <MatchPanel />
       </Flex>
